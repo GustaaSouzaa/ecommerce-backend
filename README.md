@@ -118,5 +118,3 @@ Este projeto é o coração da aplicação de e-commerce, uma **API RESTful robu
     -   **Resposta:** `200 OK` (se credenciais válidas).
 
 ---
-
-Made with ❤️ by [Seu Nome Completo]
