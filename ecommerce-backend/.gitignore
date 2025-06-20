@@ -1,0 +1,30 @@
+# Maven
+/target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Logs
+*.log
+logs/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Other
+.env
+.env.local
+.DS_Store
+# Spring Boot Actuator's external jar files
+!**/target/classes/BOOT-INF/lib/
+
+# Database
+*.sqlite
+*.db
